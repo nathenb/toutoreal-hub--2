@@ -1,0 +1,26 @@
+
+    h1{
+color:#ff80ff
+}
+*{
+   
+    Color:springgreen
+
+}
+.dasies{
+    border:solid;
+    border-width:5px ;
+    background-color: #00d52b; 
+
+    display:flex;
+    justify-content:space-evenly;
+    font-style:bold;
+font-family:Arial
+
+
+
+}
+body{
+   background-image: url("image.jpg"); 
+   background-size: 0.1cm;
+}
